@@ -1,0 +1,17 @@
+
+*.pyc
+*.out
+
+*.npy
+*.npz
+
+*.db
+
+*.png
+
+.DS_Store
+
+.ipynb_checkpoints/
+test/
+archives/
+logs/
