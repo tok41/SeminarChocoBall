@@ -19,5 +19,5 @@ $ pip3 install -r requirements.txt
 
 ## 環境構築手順
 MacとWindowsで環境を構築する手順は以下のページを参考にしてください。  
-[[環境構築手順|SetupProcedure]]
+[SetupProcedure](https://github.com/tok41/SeminarChocoBall/wiki/SetupProcedure)
 
