@@ -11,7 +11,7 @@
 - Python3.6
 
 ### 必須ライブラリ
-requirements.txtからインストールする。
+- requirements.txt
 
 ```
 $ pip3 install -r requirements.txt
